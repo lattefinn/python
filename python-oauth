@@ -1,0 +1,6 @@
+
+
+
+f = open(institution_get.json)
+text = f.data
+print(f.data)
